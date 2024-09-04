@@ -1,2 +1,3 @@
 # Designing-Masters-course-curriculum-based-on-data-science-job-postings
 The project focused on designing a master’s level course curriculum for "Business and Management in Data Science and Artificial Intelligence." To achieve this, web scraping techniques were employed to gather data science job postings from the Indeed website. NLP algorithms, combined with the ChatGPT API, were used to extract relevant skills for these job roles, which were then clustered to create a comprehensive course plan that enhances these skills in demand.
+The repository contains a 3-page report to summarize the findings of the project along with the jupyter notebook file that includes the code work.
